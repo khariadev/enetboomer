@@ -1,0 +1,15 @@
+﻿  enetboomer.cpp
+C:\Users\Thiago\Desktop\enetboomer-main\enetboomer\corefunc.h(222,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_packet_create
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_peer_send
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_host_create
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_crc32
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_host_compress_with_range_coder
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_address_set_host
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_host_connect
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_host_flush
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_host_service
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_packet_destroy
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_initialize
+enetboomer.obj : error LNK2001: çözümlenmemiş dış sembol enet_deinitialize
+C:\Users\Thiago\Desktop\enetboomer-main\x64\Release\enetboomer.exe : fatal error LNK1120: 12 çözümlenmemiş dışlar
